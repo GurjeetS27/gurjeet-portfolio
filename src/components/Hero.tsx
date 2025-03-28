@@ -12,11 +12,11 @@ function App() {
           Building intelligent, real-world solutions that solve real problems.
         </p>
 
-        <div className="flex flex-col sm:flex-row justify-center gap-4">
+        <div className="flex flex-col sm:flex-row gap-4 justify-center mb-4">
           <a
-            href="/resume.pdf"
-            className="px-6 py-3 bg-blue-600 text-white rounded hover:bg-blue-700 transition"
+            href="/resume-software-engineer.pdf"
             download
+            className="px-6 py-3 bg-blue-600 text-white rounded hover:bg-blue-700 transition"
           >
             Download Resume
           </a>
@@ -27,6 +27,17 @@ function App() {
             Contact Me
           </a>
         </div>
+
+        <p className="text-sm text-gray-500 italic">
+          Also available:{" "}
+          <a
+            href="/resume-data-analyst.pdf"
+            download
+            className="text-blue-600 hover:underline"
+          >
+            Data Analyst Resume
+          </a>
+        </p>
       </div>
     </div>
   );
