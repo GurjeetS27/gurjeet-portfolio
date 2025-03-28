@@ -14,7 +14,7 @@ function App() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-4">
           <a
-            href="/resume-software-engineer.pdf"
+            href="/resume-sofware-engineer.pdf"
             download
             className="px-6 py-3 bg-blue-600 text-white rounded hover:bg-blue-700 transition"
           >
