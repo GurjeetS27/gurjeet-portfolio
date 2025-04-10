@@ -12,7 +12,7 @@ function Contact() {
 
         {/* Resume Download */}
         <a
-          href="/resume.pdf"
+          href="/resume-sofware-engineer.pdf"
           download
           className="inline-block px-6 py-3 bg-blue-600 text-white rounded hover:bg-blue-700 transition mb-4"
         >
@@ -30,7 +30,7 @@ function Contact() {
             Email
           </a>
           <a
-            href="https://github.com/yourgithub"
+            href="https://github.com/GurjeetS27"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:underline"

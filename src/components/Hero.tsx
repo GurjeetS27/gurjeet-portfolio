@@ -2,6 +2,13 @@ function App() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-gray-100 to-white flex items-center justify-center px-4">
       <div className="text-center max-w-2xl">
+        {/* 👤 Profile Image */}
+        <img
+          src="/gurjeet-profile.jpg"
+          alt="Gurjeet Singh"
+          className="w-32 h-32 rounded-full mx-auto mb-6 shadow-lg object-cover transition-transform duration-300 hover:scale-105"
+        />
+
         <h1 className="text-4xl md:text-6xl font-extrabold text-gray-900 mb-4">
           Hi, I'm <span className="text-blue-600">Gurjeet Singh</span>
         </h1>
