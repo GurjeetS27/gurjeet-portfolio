@@ -6,21 +6,20 @@ function AboutMe() {
           About Me
         </h2>
         <p className="text-gray-700 text-lg leading-relaxed mb-6">
-          I'm a passionate junior software engineer with a deep interest in AI,
-          real-world problem solving, and full-stack development. I recently
-          graduated with a degree in Computer Science and earned my AWS Cloud
-          Practitioner certification.
+          I’m a junior software engineer with a passion for AI, real-world
+          problem-solving, and full-stack development. I recently graduated with
+          a degree in Computer Science and earned my AWS Cloud Practitioner
+          certification.
         </p>
         <p className="text-gray-700 text-lg leading-relaxed mb-6">
-          I love building tools that make life easier, whether it's a smart
-          productivity app or a community-driven platform for my Gurudwara. I’m
-          always learning — currently mastering data structures, Tailwind CSS,
-          and secure backend development with JWT.
+          I love building tools that make life easier — from AI-powered
+          productivity apps to platforms supporting my Gurudwara community. I’m
+          a fast learner, currently diving deeper into data structures, Tailwind
+          CSS, and secure backend development with JWT.
         </p>
         <p className="text-gray-700 text-lg leading-relaxed">
-          When I'm not coding, I’m usually mentoring younger students, doing
-          seva at the Gurudwara, or studying how tech can empower underserved
-          communities.
+          Outside of coding, I mentor younger students, do seva at my Gurudwara,
+          and explore how tech can uplift underserved communities.
         </p>
       </div>
     </section>

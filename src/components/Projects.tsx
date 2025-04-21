@@ -51,10 +51,11 @@ function Projects() {
               Gurudwara Website
             </h3>
             <p className="text-gray-700 mb-4">
-              A community-first platform created for the Nashville Gurudwara to
-              manage donations, display event information, and answer common
-              questions. Includes custom domain, full deployment pipeline, and
-              mobile-first UI.
+              A full-stack platform built for the Nashville Gurudwara to manage
+              announcements, donations, and gallery images. Features include an
+              admin dashboard with token-based access, AWS S3 image uploads with
+              preview and drag-drop, real-time announcements, and a mobile-first
+              UI. Deployed with a custom domain and CI/CD pipeline.
             </p>
             <div className="flex flex-wrap gap-2 text-sm mb-4">
               <span className="bg-blue-100 text-blue-600 px-2 py-1 rounded">
@@ -70,7 +71,16 @@ function Projects() {
                 Tailwind CSS
               </span>
               <span className="bg-blue-100 text-blue-600 px-2 py-1 rounded">
+                AWS S3
+              </span>
+              <span className="bg-blue-100 text-blue-600 px-2 py-1 rounded">
+                JWT Auth
+              </span>
+              <span className="bg-blue-100 text-blue-600 px-2 py-1 rounded">
                 Netlify
+              </span>
+              <span className="bg-blue-100 text-blue-600 px-2 py-1 rounded">
+                Render
               </span>
             </div>
             <div className="flex gap-4">
